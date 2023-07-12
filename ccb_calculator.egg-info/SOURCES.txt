@@ -1,8 +1,0 @@
-setup.py
-CCB_Calculator/CCB_Calculator.py
-CCB_Calculator/__init__.py
-ccb_calculator.egg-info/PKG-INFO
-ccb_calculator.egg-info/SOURCES.txt
-ccb_calculator.egg-info/dependency_links.txt
-ccb_calculator.egg-info/requires.txt
-ccb_calculator.egg-info/top_level.txt
